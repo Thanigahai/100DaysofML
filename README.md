@@ -1,6 +1,8 @@
 # 100DaysofML
 
-##Day 1:- revised the coursera machine learning course that i had enrolled before. I had completed 1 week's lecture before . Revised till what i've completed
+##Day 1:- Revised the coursera machine learning course.
 
 ##Day 2:- Learned about Gradient descent for linear regression and Feature scaling
+
+##Day 3:- Learned about Implementation of Normal equation and it non invertibility cases
 
