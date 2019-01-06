@@ -4,5 +4,5 @@
 
 ##Day 2:- Learned about Gradient descent for linear regression and Feature scaling
 
-##Day 3:- Learned about Implementation of Normal equation and it non invertibility cases
+##Day 3:- Learned about Implementation of Normal equation and its non invertibility cases
 
