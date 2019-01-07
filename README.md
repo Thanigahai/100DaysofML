@@ -6,3 +6,4 @@
 
 ##Day 3:- Learned about Implementation of Normal equation and its non invertibility cases
 
+##Day 4:- Went through the basics operations and moving data around in Octave in coursera
